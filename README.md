@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Sadanand Kadam!  
 
-<!--
-**sadanand-g-kadam/sadanand-g-kadam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Test Engineer** | **Automation & Manual Testing** | **Selenium | Java | API Testing**  
 
-Here are some ideas to get you started:
+🔍 Passionate about **software quality assurance** and building **robust test automation frameworks**.  
+📌 **Tech Stack:** Selenium | Java | TestNG | Postman | MySQL | JIRA | API Testing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 **Projects**  
+🔹 [**E-Commerce Jewelry Web App**](https://dattajiraoparashrammanesaraf.net/) – Automated Functional & Regression Testing.  
+🔹 [**Site Plot Management System**](https://shreedeevelopers.com/) – Manual & Automation Testing with Selenium & Java.  
+
+📫 **Connect with Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sadanand-kadam-3186b8241/)  
+[![Email](https://img.shields.io/badge/Email-sadanandk2728@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadanandk2728@gmail.com)  
+
+---
+💡 *"Quality is never an accident; it is always the result of intelligent effort."* – John Ruskin  
